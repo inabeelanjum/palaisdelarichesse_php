@@ -1,0 +1,15 @@
+[25-May-2021 15:11:32 UTC] PHP Notice:  Undefined index: name in /home/shujaatme/public_html/palaisdelarichesse/index.php on line 4
+[25-May-2021 15:11:32 UTC] PHP Notice:  Undefined variable: success in /home/shujaatme/public_html/palaisdelarichesse/index.php on line 133
+[25-May-2021 15:14:58 UTC] PHP Notice:  Undefined index: name in /home/shujaatme/public_html/palaisdelarichesse/index.php on line 4
+[25-May-2021 15:14:58 UTC] PHP Notice:  Undefined variable: success in /home/shujaatme/public_html/palaisdelarichesse/index.php on line 141
+[25-May-2021 16:53:29 UTC] PHP Notice:  Undefined variable: success in /home/shujaatme/public_html/palaisdelarichesse/popup_form.php on line 10
+[25-May-2021 16:57:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/shujaatme/public_html/palaisdelarichesse/mail.php on line 112
+[25-May-2021 16:58:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/shujaatme/public_html/palaisdelarichesse/mail.php on line 112
+[25-May-2021 16:59:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/shujaatme/public_html/palaisdelarichesse/mail.php on line 112
+[25-May-2021 17:02:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/shujaatme/public_html/palaisdelarichesse/mail.php on line 112
+[25-May-2021 17:02:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/shujaatme/public_html/palaisdelarichesse/mail.php on line 112
+[25-May-2021 17:02:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/shujaatme/public_html/palaisdelarichesse/mail.php on line 112
+[25-May-2021 17:03:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/shujaatme/public_html/palaisdelarichesse/mail.php on line 112
+[25-May-2021 17:04:33 UTC] PHP Notice:  Undefined variable: success in /home/shujaatme/public_html/palaisdelarichesse/popup_form.php on line 10
+[25-May-2021 17:07:47 UTC] PHP Notice:  Undefined variable: success in /home/shujaatme/public_html/palaisdelarichesse/contact.php on line 185
+[25-May-2021 17:09:45 UTC] PHP Notice:  Undefined variable: success in /home/shujaatme/public_html/palaisdelarichesse/contact.php on line 185
